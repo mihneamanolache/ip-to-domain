@@ -1,0 +1,6 @@
+/target
+/node_modules
+/zip_archive
+
+.DS_Store
+ecosystem.config.cjs
